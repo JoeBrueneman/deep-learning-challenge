@@ -10,16 +10,16 @@ This project uses neural network model to create a binary classifier that can pr
 * This analysis is to create a neural network model which can predict whether applicants will succeed if funded by Alphabet Soup (Google).
 
 * The dataset contains 34,299 instances and 12 features, the features includes:
-* ![image](https://github.com/JoeBrueneman/deep-learning-challenge/images/Dataset_data.PNG)
+* ![image](Images/Dataset_data.PNG)
 
 * The analysis is conducted in the following stages:
   * First set up the neural network model. We set up the initial model as follow:
 
-  *![image](https://github.com/JoeBrueneman/deep-learning-challenge/images/First_model.PNG)
+  *![image](Images/First_model.PNG)
 
   * Next we review the data, and decide whether we need to improve and how to improve the model further such as advancing to this step of the model:
   
-  *![image](https://github.com/JoeBrueneman/deep-learning-challenge/images/Final_model.PNG)
+  *![image](Images/Final_model.PNG)
 
 ### Results
 * Data Preprocessing
@@ -41,7 +41,7 @@ This project uses neural network model to create a binary classifier that can pr
     - Increased the cutoff for the bins for Application type
     - ![image](Images/Application_cutoff.PNG) 
     - Increased the cutoff for the bins for Classification
-    - ![image](https://github.com/JoeBrueneman/deep-learning-challenge/Images/Classification_cutoff.PNG)   
+    - ![image](Images/Classification_cutoff.PNG)   
     - Took steps to improve the nerual network by increasing neurons, layers, and varying activation types.
   
 ### Summary
@@ -49,7 +49,7 @@ This project uses neural network model to create a binary classifier that can pr
 * My best attempt is the third optimization where we have an accuracy of 73.13%.
 * A Support Vector Machine model may be better to solve the problem. Since SVMs perform far better with small to medium-sized datasets.
 
-* ![image](https://github.com/JoeBrueneman/deep-learning-challenge/images/Final_model_results.PNG)
+* ![image](Images/Final_model_results.PNG)
 
 ## File Paths
 
