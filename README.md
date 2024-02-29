@@ -39,9 +39,9 @@ This project uses neural network model to create a binary classifier that can pr
     - No.
   - What steps did you take in your attempts to increase model performance?
     - Increased the cutoff for the bins for Application type
-    - ![image](https://github.com/JoeBrueneman/deep-learning-challenge/images/Application_cutoff.PNG) 
+    - ![image](Images/Application_cutoff.PNG) 
     - Increased the cutoff for the bins for Classification
-    - ![image](https://github.com/JoeBrueneman/deep-learning-challenge/images/Classification_cutoff.PNG)   
+    - ![image](https://github.com/JoeBrueneman/deep-learning-challenge/Images/Classification_cutoff.PNG)   
     - Took steps to improve the nerual network by increasing neurons, layers, and varying activation types.
   
 ### Summary
@@ -60,6 +60,4 @@ This project uses neural network model to create a binary classifier that can pr
 
 ## References & Data Source
 
-1. Investigating the effects of resampling imbalanced datasets with data validation techniques: https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94
-2. Image: https://spectrum.ieee.org/media-library/a-photo-illustration-showing-an-artificial-network-and-computer-code.jpg?id=29854895&width=1200&height=701
-3. Data Source: data for this dataset was generated/provided by edX Boot Camps LLC, and is intended for educational purposes only.
+1. Data Source: data for this dataset was generated/provided by edX Boot Camps LLC, and is intended for educational purposes only.
